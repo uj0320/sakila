@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace sakila2
 {
+    /* new test */
     /*
      * murmur 2
      * */
