@@ -22,8 +22,14 @@ namespace sakila2.Controllers
         public IActionResult Index()
         {
             SakilaContext db = new SakilaContext();
-            
-            var res = from x in db
+
+            var res = (from x in db.Actor select x).ToList();
+
+            foreach(var x in res)
+            {
+                string fn = x.FirstName;
+                int a = 1;
+            }
 
             return View();
         }
