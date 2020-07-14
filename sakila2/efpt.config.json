@@ -1,0 +1,115 @@
+﻿{
+   "ContextClassName": "SakilaContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": "EF_Models",
+   "OutputContextPath": null,
+   "OutputPath": "EF_Models",
+   "ProjectRootNamespace": "sakila2",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "actor"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "actor_info"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "address"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "category"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "city"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "country"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "customer"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "customer_list"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "film"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "film_actor"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "film_category"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "film_list"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "film_text"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "inventory"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "language"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "nicer_but_slower_film_list"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "payment"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "rental"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "sales_by_film_category"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "sales_by_store"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "staff"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "staff_list"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "store"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
