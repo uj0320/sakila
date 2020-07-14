@@ -12,6 +12,7 @@ namespace sakila2.Controllers
 {
     public class HomeController : Controller
     {
+		/* test aaa */
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
