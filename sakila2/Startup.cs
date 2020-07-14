@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 namespace sakila2
 {
     /*
-     * murmur 1
+     * murmur 2
      * */
     //??????????????
     /*
