@@ -12,6 +12,10 @@ using Microsoft.Extensions.Hosting;
 namespace sakila2
 {
     //??????????????
+    /*
+     654rdhgvg426g
+     r5g4tth544765487974g
+     */
     public class Startup
     {
         public Startup(IConfiguration configuration)
